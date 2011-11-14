@@ -1,0 +1,17 @@
+well. here it goes,
+
+THIS PROKECT IS STRICTLY FOR EDUCATIONAL PURPOSES.
+spelling errors aside, what you do with this stuff is up to you, 
+wether it be good or evil.
+regardless i take no responsibality for your actions.
+
+The purpose of these patches is so that for the time being, the autopwn db functionality of both msf and set can be useable, 
+this is just crude patched code, but hey. it works. 
+as i find time i will attempt to clean it up, and merge the db.rb file found in the 
+Set-dev/framework-4.0.0/msf3/lib/msf/ui/console/command_dispatcher/ dir, with the newest db.rb from msf.
+
+all modificatons made may be found in the autopwn.py file located in set/src/fasttrack/autopwn.py
+
+enjoy, and rember, RedRum RedRum!
+
+--2uro 
